@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&display=swap');
+
+body {
+    overflow-x: hidden;
+}
+
+main{
+    background-color: #f2f2f2;
+}
+
+main .about .h1 {
+    text-align: center;
+    padding-top: 100px;
+}
+
+main .about .text-center {
+    padding: 50px;
+}
+
+.ayrac {
+    border: none;
+    border-top: 3px solid #343a49;
+    max-width: 250px;
+    margin: 25px auto;
+}
+
+.ibeyaz {
+    color: #343a49;
+    position: relative;
+    top: -59px;
+    font-size: 50px;
+    border: 18px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+
+section .team .h1 {
+    text-align: center;
+    padding-top: 100px;
+}
+
+.ekip img:hover {
+    opacity: 0.8;
+    transition: 0.5s;
+}
+
+.resin img:hover {
+    opacity: 0.8;
+    transition: 0.5s;
+}
+
+footer .container-3 {
+    background-color: #343a49;
+}
+
+i{
+    margin-left: 50px;
+    font-size: 35px;
+    color: rgba(255, 255, 255, 0.627);
+}
+
+i:hover{
+    color: rgb(255, 255, 255);
+}
+
+
+img:hover {
+    -ms-transform: scale(1.3); /* IE 9 */
+    -webkit-transform: scale(1.3); /* Safari 3-8 */
+     transform: scale(1.3); 
+}
